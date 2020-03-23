@@ -19,7 +19,7 @@ setuptools.setup(
         "Operating System :: OS Independent"
     ],
     install_requires=[
-        "tensorflow==1.14.0",
+        "tensorflow==1.15.2",
         "tensorflow-gpu==1.14.0",
         "tensorboard==1.14.0",
         "matplotlib>=3.1.3",

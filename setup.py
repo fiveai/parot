@@ -20,7 +20,7 @@ setuptools.setup(
     ],
     install_requires=[
         "tensorflow==1.14.0",
-        "tensorflow-gpu==1.14.0",
+        "tensorflow-gpu==2.7.2",
         "tensorboard==1.14.0",
         "matplotlib>=3.1.3",
         "numpy==1.16.0",

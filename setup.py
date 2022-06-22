@@ -23,7 +23,7 @@ setuptools.setup(
         "tensorflow-gpu==1.14.0",
         "tensorboard==1.14.0",
         "matplotlib>=3.1.3",
-        "numpy==1.16.0",
+        "numpy==1.22.0",
         "tqdm>=4.42.1"
     ],
     include_package_data=True
